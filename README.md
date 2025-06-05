@@ -8,3 +8,11 @@ This structure promotes easy navigation and maintenance, making it straightforwa
 - **bodaFareCalculator/** — Solution for the boda fare calculation challenge
 - **chaiCalculator/** — Solution for the chai calculation challenge
 - **mobileMoneyEstimator/** — Solution for the mobile money fee estimation challenge
+
+Author
+Ernest Munyoki
+Email: ernestmunyoki@gmail.com
+GitHub: ErnestMunyoki
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
